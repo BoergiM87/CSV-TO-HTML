@@ -1,0 +1,5 @@
+"Summary","Description","Reporter","Status","Created","Components","Story Points","Solution Design"
+"Bug in Login","Users are unable to log in.","John Doe","Open","2023-08-15","Authentication","3","Implement fix for login API"
+"Add Feature X","Implement new feature X.","Jane Smith","In Progress","2023-08-10","Feature X","5","Design and code feature X"
+"Performance Issue","Slow loading times on homepage.","Alice Johnson","Open","2023-08-05","Performance","2","Optimize database queries"
+"Update UI","Update the user interface design.","Michael Brown","Completed","2023-08-01","UI/UX","1","Create new UI mockups"
